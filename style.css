@@ -1,0 +1,253 @@
+.btn{
+    border:none;
+    background-color: white;
+    color: rgb(255, 51, 0);
+    cursor: pointer;
+}
+.btn1{
+    background-color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10px;
+    border-radius: 14px;
+    border: none;
+    font-size: large;
+}
+.btn2{
+    background-color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10px;
+    border-radius: 14px;
+    border: none;
+    color: rgba(0, 0, 0, 0.733);
+    font-size: large;
+}
+.nav{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+.search{
+    height: 47px;
+    border-radius: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(160, 160, 160);
+    cursor: pointer;
+    
+}
+
+.right{
+    justify-content: end;
+    display: flex;
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    height: 100px;
+    border-bottom: 1cap;
+    margin-top: 20px;
+    position: relative;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+}
+.btn3{
+    border: 1px solid rgba(185, 185, 185, 0.212);
+    height: 20px;
+    border-radius: 44px;
+    padding: 15px;
+    background-color: rgba(211, 211, 211, 0.171);
+    cursor: pointer;
+}
+
+.globe{
+    padding: 15px;
+}
+.user{
+    width: 40px;
+    height: 40px;
+    color: rgb(92, 92, 92);
+    padding: 8px;
+}
+
+.search1{
+    background-color: rgb(255, 8, 49);
+    border: none;
+    border-radius: 90px;
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+
+.nav2{
+    display: flex;
+    justify-content:space-between;
+    margin: 20px;
+    padding: 30px;
+}
+.nav1{
+    color: rgba(0, 0, 0, 0.637);
+    background-color: white;
+    position: sticky;
+}
+body, html{
+    width: 1700px;
+    padding-left: 30px;
+    width: 1750px;
+    
+}
+
+.text{
+    display: flex;
+    justify-content:space-between;
+    margin: 20px;
+    padding: 30px;
+    border: none;
+}
+.key{
+    border: none;
+    background-color: white;
+    position: relative;
+    bottom: 60px;
+}
+
+.switch{
+    display: flex;
+    gap: 40px;
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    width: 600px;
+    border-radius: 14px;
+}
+.l{
+    color: rgba(126, 126, 126, 0.534);
+    margin-right: 1;
+    top: 0;
+    position: relative;
+    top: 16px;
+}
+
+h2{
+    margin-left: 15px 0px;
+    border-right: 1px solid rgba(0, 0, 0, 0.555);
+    padding: 5px;
+    padding-left: 15px;
+}
+.p{
+
+    top: 0;
+    position: relative;
+    top: 12px;
+    color: rgba(0, 0, 0, 0.829);
+   
+}
+.o{
+    display: flex;
+    justify-content: center ;
+    position: absolute;
+    left: 600px;
+    top: 270px;
+    
+    
+}
+.img-1{
+    box-shadow: 3px 3px 3px 3px rgba(158, 158, 158, 0.137);
+    padding: 10px;
+    border-radius: 14px;
+    width: 400px;
+}
+
+.hotel{
+    position: relative;
+    border-radius: 14px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxm{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    padding-top: 15px; 
+}
+
+body,html{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 254, 254);
+    margin: 30px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    position: sticky;
+    top: 100px;
+    bottom: 0;
+    padding: 0 15px;
+    
+}
+
+.footer1{
+    display: flex;
+   
+}
+.footer2{
+    display: flex;
+}
+
+.ul{
+    display: flex;
+    gap: 40px;
+}
+
+.k{
+    display: flex;
+    justify-content: center;
+}
+.l{
+    display: flex;
+}
+
+.png{
+    position: relative;
+    top: 20px;
+    margin-right: 10px;
+}
+.png1{
+    position: relative;
+    top: 20px;
+    margin-right: 10px;
+}
+
+.png2{
+    
+     position: relative;
+    top: 20px;
+    margin-left: 10px;
+    
+}
+
+.sticky{
+    position: fixed;
+    left: 900px;
+    justify-content: center;
+    position: -webkit-sticky;
+    bottom: 100px;
+    cursor: pointer;
+}
+
+.btn9{
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    padding:  0 15px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
